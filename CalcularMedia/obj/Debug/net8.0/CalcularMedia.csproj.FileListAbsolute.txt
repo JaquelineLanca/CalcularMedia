@@ -1,0 +1,15 @@
+C:\Users\Jaqueline Lanca\Documents\CursoMicrosoft\CalcularMedia\bin\Debug\net8.0\CalcularMedia.exe
+C:\Users\Jaqueline Lanca\Documents\CursoMicrosoft\CalcularMedia\bin\Debug\net8.0\CalcularMedia.deps.json
+C:\Users\Jaqueline Lanca\Documents\CursoMicrosoft\CalcularMedia\bin\Debug\net8.0\CalcularMedia.runtimeconfig.json
+C:\Users\Jaqueline Lanca\Documents\CursoMicrosoft\CalcularMedia\bin\Debug\net8.0\CalcularMedia.dll
+C:\Users\Jaqueline Lanca\Documents\CursoMicrosoft\CalcularMedia\bin\Debug\net8.0\CalcularMedia.pdb
+C:\Users\Jaqueline Lanca\Documents\CursoMicrosoft\CalcularMedia\obj\Debug\net8.0\CalcularMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaqueline Lanca\Documents\CursoMicrosoft\CalcularMedia\obj\Debug\net8.0\CalcularMedia.AssemblyInfoInputs.cache
+C:\Users\Jaqueline Lanca\Documents\CursoMicrosoft\CalcularMedia\obj\Debug\net8.0\CalcularMedia.AssemblyInfo.cs
+C:\Users\Jaqueline Lanca\Documents\CursoMicrosoft\CalcularMedia\obj\Debug\net8.0\CalcularMedia.csproj.CoreCompileInputs.cache
+C:\Users\Jaqueline Lanca\Documents\CursoMicrosoft\CalcularMedia\obj\Debug\net8.0\CalcularMedia.sourcelink.json
+C:\Users\Jaqueline Lanca\Documents\CursoMicrosoft\CalcularMedia\obj\Debug\net8.0\CalcularMedia.dll
+C:\Users\Jaqueline Lanca\Documents\CursoMicrosoft\CalcularMedia\obj\Debug\net8.0\refint\CalcularMedia.dll
+C:\Users\Jaqueline Lanca\Documents\CursoMicrosoft\CalcularMedia\obj\Debug\net8.0\CalcularMedia.pdb
+C:\Users\Jaqueline Lanca\Documents\CursoMicrosoft\CalcularMedia\obj\Debug\net8.0\CalcularMedia.genruntimeconfig.cache
+C:\Users\Jaqueline Lanca\Documents\CursoMicrosoft\CalcularMedia\obj\Debug\net8.0\ref\CalcularMedia.dll
